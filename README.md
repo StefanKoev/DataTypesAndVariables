@@ -8,3 +8,4 @@ Lab: Data Types and Variables - Programming Fundamentals - september 2017
 04.Elevator
 05.Special-Numbers
 06.Triples of Latin Letters
+07.Greeting

@@ -31,4 +31,3 @@ namespace _05.Special_Numbers
         }
     }
 }
-
